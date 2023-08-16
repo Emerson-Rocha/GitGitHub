@@ -7,7 +7,9 @@
 /* navegando até a pasta */
 ``` css
 $ cd [ projeto ]
-
+```
 /* inicialize o Git */
 
+``` css
 $ git init
+``` 
