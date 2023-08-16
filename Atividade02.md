@@ -5,4 +5,9 @@
 * Crie um diretório de seu  projeto que ainda não está versionado. 
 
 /* navegando até a pasta */
-cd [ projeto ]
+
+$ cd [ projeto ]
+
+/* inicialize o Git */
+
+$ git init
