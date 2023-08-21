@@ -21,3 +21,10 @@ Um branch que você cria para produzir um recurso é comumente referido como um 
 ```css 
    $ git checkout [nome-da-sua-branch] 
 ```
+
+E assim que a branch for criada, você já será levado para ela.
+
+```css
+  $  git checkout -b [nome-da-sua-branch]
+
+```
