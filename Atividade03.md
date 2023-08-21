@@ -19,3 +19,6 @@ Depois de adicionar o arquivo a ser rastreado, confirme as alterações a serem 
 ```css
 $ git commit -m "tipo mensagem"
 ```
+
+
+Depois de confirmar as alterações, envie as alterações de sua máquina local para o repositório remoto. 
