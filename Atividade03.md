@@ -22,3 +22,6 @@ $ git commit -m "tipo mensagem"
 
 
 Depois de confirmar as alterações, envie as alterações de sua máquina local para o repositório remoto. 
+
+```css
+$ git push origin master
