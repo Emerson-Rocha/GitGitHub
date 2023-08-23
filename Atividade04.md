@@ -28,3 +28,9 @@ E assim que a branch for criada, você já será levado para ela.
   $  git checkout -b [nome-da-sua-branch]
 
 ```
+
+## Subir uma branch local para um repositório remoto
+``` css
+ $ git 
+```
+asdas
