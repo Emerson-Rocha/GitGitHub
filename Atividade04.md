@@ -10,6 +10,7 @@ Você então poderá trabalhar nesse novo branch isolado das mudanças que outra
 
 Um branch que você cria para produzir um recurso é comumente referido como um branch de recurso ou branch de tópico.
 
+https://wac-cdn.atlassian.com/dam/jcr:389059a7-214c-46a3-bc52-7781b4730301/hero.svg?cdnVersion=1299
 ## 2.Criar uma branch
 
 ```css 
