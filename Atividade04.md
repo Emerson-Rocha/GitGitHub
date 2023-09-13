@@ -32,5 +32,5 @@ E assim que a branch for criada, você já será levado para ela.
 
 ## Subir uma branch local para um repositório remoto
 ``` css
- $ git  push origin [none_branch]
+ $ git  push origin [none_branch];
 ```
